@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+#body
+{
+	background: url(http://idealnajasvadba.ua/themes/ideal/img/demo/1280x640-2.jpg) no-repeat;
+
+}
+#mystyle
+{	
+	border:ridge;
+	color: white;
+	font-weight: bold;
+
+ 
+}
+#input
+{
+	background: white;
+	border: groove;
+}
+#button
+{
+	font-family: Purisa;
+	border: solid;
+}
+
+.active {
+	
+	font-family: Purisa;
+	color: red;
+	border: solid;
+	
+}
